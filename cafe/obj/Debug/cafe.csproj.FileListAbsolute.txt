@@ -1,0 +1,6 @@
+/Users/berkangezgin/Projects/cafe/cafe/bin/cafe.dll
+/Users/berkangezgin/Projects/cafe/cafe/bin/cafe.pdb
+/Users/berkangezgin/Projects/cafe/cafe/obj/Debug/cafe.csprojAssemblyReference.cache
+/Users/berkangezgin/Projects/cafe/cafe/obj/Debug/cafe.dll
+/Users/berkangezgin/Projects/cafe/cafe/obj/Debug/cafe.pdb
+/Users/berkangezgin/Projects/cafe/cafe/obj/Debug/cafe.csproj.CoreCompileInputs.cache

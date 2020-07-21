@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7FBE72DA-CB17-446E-981A-4052C0C0FF1A}|">
+  <MonoDevelop.Ide.ItemProperties.cafe PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cafe/icecekler.aspx">
+    <Files>
+      <File FileName="cafe/salatalar.aspx" Line="42" Column="31" />
+      <File FileName="cafe/giris.aspx" />
+      <File FileName="cafe/style.css" />
+      <File FileName="cafe/Default.aspx" />
+      <File FileName="cafe/Global.asax" />
+      <File FileName="cafe/icecekler.aspx" Line="1" Column="1" />
+      <File FileName="cafe/tatlilar.aspx" />
+      <File FileName="cafe/yemekler.aspx" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cafe" expanded="True">
+            <Node name="cafe" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="icecekler.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cafe.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
